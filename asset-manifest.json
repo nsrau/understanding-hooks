@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/understanding-hooks/static/css/main.1b9275fe.chunk.css",
-    "main.js": "/understanding-hooks/static/js/main.3d859f4c.chunk.js",
-    "main.js.map": "/understanding-hooks/static/js/main.3d859f4c.chunk.js.map",
+    "main.js": "/understanding-hooks/static/js/main.a9d085ee.chunk.js",
+    "main.js.map": "/understanding-hooks/static/js/main.a9d085ee.chunk.js.map",
     "runtime-main.js": "/understanding-hooks/static/js/runtime-main.e7ceb0b9.js",
     "runtime-main.js.map": "/understanding-hooks/static/js/runtime-main.e7ceb0b9.js.map",
-    "static/js/2.1f0d38ad.chunk.js": "/understanding-hooks/static/js/2.1f0d38ad.chunk.js",
-    "static/js/2.1f0d38ad.chunk.js.map": "/understanding-hooks/static/js/2.1f0d38ad.chunk.js.map",
+    "static/js/2.aa6328e9.chunk.js": "/understanding-hooks/static/js/2.aa6328e9.chunk.js",
+    "static/js/2.aa6328e9.chunk.js.map": "/understanding-hooks/static/js/2.aa6328e9.chunk.js.map",
     "index.html": "/understanding-hooks/index.html",
-    "precache-manifest.547ad704a6b349a77eeb4d640d10de98.js": "/understanding-hooks/precache-manifest.547ad704a6b349a77eeb4d640d10de98.js",
+    "precache-manifest.8f4caf8c26363a8762659a25fd913120.js": "/understanding-hooks/precache-manifest.8f4caf8c26363a8762659a25fd913120.js",
     "service-worker.js": "/understanding-hooks/service-worker.js",
     "static/css/main.1b9275fe.chunk.css.map": "/understanding-hooks/static/css/main.1b9275fe.chunk.css.map",
-    "static/js/2.1f0d38ad.chunk.js.LICENSE.txt": "/understanding-hooks/static/js/2.1f0d38ad.chunk.js.LICENSE.txt"
+    "static/js/2.aa6328e9.chunk.js.LICENSE.txt": "/understanding-hooks/static/js/2.aa6328e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e7ceb0b9.js",
-    "static/js/2.1f0d38ad.chunk.js",
+    "static/js/2.aa6328e9.chunk.js",
     "static/css/main.1b9275fe.chunk.css",
-    "static/js/main.3d859f4c.chunk.js"
+    "static/js/main.a9d085ee.chunk.js"
   ]
 }
