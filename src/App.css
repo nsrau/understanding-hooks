@@ -1,0 +1,16 @@
+body {
+    width: 900px;
+    margin: auto;
+}
+
+.menu, .content {
+    float: left;
+}
+
+.menu {
+    width: 20%;
+}
+
+.content {
+    width: 80%;
+}
