@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACI,WAAY,CACZ,WACJ,CAEA,eACI,UACJ,CAEA,MACI,SACJ,CAEA,SACI,SACJ","file":"main.1b9275fe.chunk.css","sourcesContent":["body {\n    width: 900px;\n    margin: auto;\n}\n\n.menu, .content {\n    float: left;\n}\n\n.menu {\n    width: 20%;\n}\n\n.content {\n    width: 80%;\n}"]}
